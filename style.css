@@ -1,0 +1,9 @@
+body{
+    background-color: mistyrose;
+}
+
+.app-background{
+    background-color: white;
+    margin:0 auto;
+    max-width: 800px;
+}
